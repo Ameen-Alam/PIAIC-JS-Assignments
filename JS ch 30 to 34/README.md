@@ -1,13 +1,13 @@
 ### Assignment JS CH # 30, 31, 32, 33, 34
 
 1. input your name through prompt. 		
-...for example value is  "Ameen Alam"
+``` for example value is  "Ameen Alam" ```
 2. input your DOB(date) through prompt. 	
-...for example value is  "24"
+``` for example value is  "24" ```
 3. input your DOB(month) through prompt.	
-...for example value is  "may"
+``` for example value is  "may" ```
 4. input your DOB(year) through prompt. 	
-...for example value is  "1999"
+``` for example value is  "1999" ```
 
 
 5. print meassage in console.log()
