@@ -17,11 +17,11 @@
    ``` "Your DOB is {in pakistan standard time format}" ```
 
 7. print meassage in console.log()
-   ``` "you are 20 year old" ```
-   ``` "Your Age in Days 7305" ```
-   ``` "Your Age in Hours 175320" ```
+   ``` "You are 20 years 7 Month 10 Days 19 Hours 20 Minutes 25 Seconds old" ```
+
+   ``` "Your Age in Days 7510" ```
 
 8. print meassage in console.log()
-   ``` "your birthday Duration Days 162" ```
+   ``` "How much time left in your next birthday? 161 days 4 hours 39 minutes 34 seconds" ```
     or
-   ``` "happy Birth Day Ameen Alam" ```
+   ``` "happy Birth Day Ameen Alam.  Today is Your 20th Birthday" ```
