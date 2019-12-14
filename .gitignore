@@ -1,0 +1,5 @@
+EXT/
+# Optional npm cache directory
+*.html
+*.js
+*.css
