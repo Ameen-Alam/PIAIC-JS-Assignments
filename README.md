@@ -22,7 +22,7 @@ by [Madam Hira Shoaib](https://github.com/hirashoaib/)
 
 ----------------------
 
-### Announcemen:-
+### Announcement:-
 
 All the assignments you complete in the class or in the video lecture...
 Upload your all assignments in a single Github repository.
