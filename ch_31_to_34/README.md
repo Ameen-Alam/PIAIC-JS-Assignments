@@ -1,4 +1,5 @@
-### Assignment JS CH # 30, 31, 32, 33, 34
+## JS chapter 31 to 34
+Java-script assignments chapter 31 to 34
 
 1. input your name through prompt. 		
 ``` for example name is  "Ameen Alam" ```
