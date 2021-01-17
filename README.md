@@ -7,6 +7,10 @@ Step By Step guide to learn Java Script.
 [```Learn-JavaScript``` ](https://github.com/hirashoaib/learn-javascript)
 by [Madam Hira Shoaib](https://github.com/hirashoaib/)
 
+
+[```Learn-JavaScript``` ](https://github.com/uqutub/learn-javascript)
+by [Sir Yousuf](https://github.com/uqutub)
+
 #### Contents:
   1. [Chapter -1 2 3](ch_1_2_3/README.md)
   2. [Chapter -5 6 7](ch_5_6_7/README.md)
