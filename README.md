@@ -28,4 +28,6 @@ by [Sir Yousuf](https://github.com/uqutub)
 
 ### Announcement:-
 
+All the assignments you complete in the class or in the zoom lecture... Upload your all assignments in a single Github repository. Attached GitHub link in the google form.
 
+https://forms.gle/zuHdWbQ4rTG4ibpW9
