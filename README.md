@@ -28,6 +28,8 @@ by [Sir Yousuf](https://github.com/uqutub)
 
 ### Announcement:-
 
-All the assignments you complete in the class or in the zoom lecture... Upload your all assignments in a single Github repository. Attached GitHub link in the google form.
+PIAIC CNC Batch 36-37
 
-https://forms.gle/zuHdWbQ4rTG4ibpW9
+For all the assignments that you complete in the class or in the video lectures, you will need to upload them to a single GitHub repository. After that, you will need to attach the GitHub link in a Google Form. By doing this, it will make it easier for us to check and grade your assignments.
+
+https://forms.gle/a2dBwaTZKnxNHGKy5
