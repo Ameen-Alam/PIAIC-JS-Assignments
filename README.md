@@ -28,6 +28,9 @@ by [Sir Yousuf](https://github.com/uqutub)
 
 ### Announcement:-
 
-#### PIAIC CNC JS Batch 36-37
+#### JS Assignment
 
 For all the assignments that you complete in the class or in the video lectures, you will need to upload them to a single GitHub repository. After that, you will need to attach the GitHub link in a Google Form. By doing this, it will make it easier for us to check and grade your assignments.
+
+**Launchpad to Next.js & React Assignment Submission Form**
+https://forms.gle/LTD53AaMJ3X6n3ys7
